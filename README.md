@@ -47,10 +47,3 @@ Interactive AMD and Intel CPU platform comparison for PCIe lanes, multi-GPU conf
 - Website: [martin-krebs.eu](https://martin-krebs.eu)
 - GitHub: [github.com/krebs3r](https://github.com/krebs3r)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=krebs3r&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krebs3r&layout=compact)
