@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Martin 👋
 
-<!--
-**krebs3r/krebs3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💳 **Senior Technical Solution Manager** focused on digital payments, e-commerce and technical integrations.  
+🧑‍💻 I work a lot with **Nexi / Computop Paygate**, APIs, payment flows, web tools and practical tech experiments.  
+🏠 In my spare time I like building homelab setups, local LLM environments, self-hosted services and small tools that solve real problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I work on
+
+- 💳 Payment and API integrations around Nexi / Computop Paygate
+- 🧪 Browser-based testing tools for HPP, Pay By Link, credit card forms and REST APIs
+- 🛠️ Small static web tools with simple deployment
+- 🤖 Local LLMs, hardware comparisons and self-hosting
+- 🏠 Homelab, servers, networking and automation
+
+---
+
+## 📌 Featured Projects
+
+### 💳 [computop-tester](https://github.com/krebs3r/computop-tester)
+
+Browser-based Nexi / Computop Paygate payment request builder for Classic HPP, credit card forms, Pay By Link and REST API V1/V2 integrations.
+
+### 🪪 [flux-card](https://github.com/krebs3r/flux-card)
+
+Modular digital business card template with glassmorphism design, dark/light mode and multi-language support.
+
+### ✅ [flux-todo](https://github.com/krebs3r/flux-todo)
+
+Lightweight browser-only todo app with an acrylic / glassmorphism look. No server, no dependencies, just static files.
+
+### 🤖 [local-llm-cpu-guide](https://github.com/krebs3r/local-llm-cpu-guide)
+
+Interactive AMD and Intel CPU platform comparison for PCIe lanes, multi-GPU configurations and local LLM suitability.
+
+---
+
+## 🧠 Tech Interests
+
+`Payments` · `E-Commerce` · `Nexi Paygate` · `Computop Paygate` · `REST APIs` · `HTML` · `CSS` · `JavaScript` · `Local LLMs` · `Homelab` · `Self-Hosting`
+
+---
+
+## 🌐 Links
+
+- Website: [martin-krebs.eu](https://martin-krebs.eu)
+- GitHub: [github.com/krebs3r](https://github.com/krebs3r)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=krebs3r&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krebs3r&layout=compact)
