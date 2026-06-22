@@ -1,18 +1,18 @@
 # Hi, I'm Martin 👋
 
-💳 **Senior Technical Solution Manager** focused on digital payments, e-commerce and technical integrations.  
-🧑‍💻 I work a lot with **Nexi / Computop Paygate**, APIs, payment flows, web tools and practical tech experiments.  
+💳 **Senior Technical Solution Manager** focused on digital payments, e-commerce and technical integrations.
+🧑‍💻 I work a lot with **Nexi / Computop Paygate**, APIs, payment flows, web tools and practical tech experiments.
 🏠 In my spare time I like building homelab setups, local LLM environments, self-hosted services and small tools that solve real problems.
 
 ---
 
 ## 🔧 What I work on
 
-- 💳 Payment and API integrations around Nexi / Computop Paygate
-- 🧪 Browser-based testing tools for HPP, Pay By Link, credit card forms and REST APIs
-- 🛠️ Small static web tools with simple deployment
-- 🤖 Local LLMs, hardware comparisons and self-hosting
-- 🏠 Homelab, servers, networking and automation
+* 💳 Payment and API integrations around Nexi / Computop Paygate
+* 🧪 Browser-based testing tools for HPP, Pay By Link, credit card forms and REST APIs
+* 🛠️ Small static web tools with simple deployment
+* 🤖 Local LLMs, hardware comparisons and self-hosting
+* 🏠 Homelab, servers, networking and automation
 
 ---
 
@@ -40,6 +40,8 @@ Lightweight browser-only todo app with an acrylic / glassmorphism look. No serve
 
 Interactive AMD and Intel CPU platform comparison for PCIe lanes, multi-GPU configurations and local LLM suitability.
 
+🔗 Demo / Website: [krebs3r.github.io/local-llm-cpu-guide](https://krebs3r.github.io/local-llm-cpu-guide/)
+
 ---
 
 ## 🧠 Tech Interests
@@ -48,9 +50,21 @@ Interactive AMD and Intel CPU platform comparison for PCIe lanes, multi-GPU conf
 
 ---
 
+## ⚖️ Beyond Tech
+
+While payments, APIs and homelab projects take up quite a bit of space, I also try to keep a healthy balance outside of tech:
+
+* 🏋️‍♂️ Going to the gym from time to time to clear my head
+* 🚴‍♂️ Cycling as a counterbalance to long hours at the desk
+* 👨‍👩‍👧‍👦 Enjoying life with my family and being grateful for the time we spend together
+* 🧘‍♂️ Trying to keep technology, work and everyday life in a reasonable balance
+
+---
+
 ## 🌐 Links
 
-- Website: [martin-krebs.eu](https://martin-krebs.eu)
-- Paygate Tools: [paygate.paytest.dev](https://paygate.paytest.dev)
-- Todo App: [flux-todo.eu](https://flux-todo.eu)
-- GitHub: [github.com/krebs3r](https://github.com/krebs3r)
+* Website: [martin-krebs.eu](https://martin-krebs.eu)
+* Paygate Tools: [paygate.paytest.dev](https://paygate.paytest.dev)
+* Todo App: [flux-todo.eu](https://flux-todo.eu)
+* Local LLM CPU Guide: [krebs3r.github.io/local-llm-cpu-guide](https://krebs3r.github.io/local-llm-cpu-guide/)
+* GitHub: [github.com/krebs3r](https://github.com/krebs3r)
