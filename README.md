@@ -22,13 +22,19 @@
 
 Browser-based Nexi / Computop Paygate payment request builder for Classic HPP, credit card forms, Pay By Link and REST API V1/V2 integrations.
 
+🔗 Demo / Website: [paygate.paytest.dev](https://paygate.paytest.dev)
+
 ### 🪪 [flux-card](https://github.com/krebs3r/flux-card)
 
 Modular digital business card template with glassmorphism design, dark/light mode and multi-language support.
 
+🔗 Demo / Website: [martin-krebs.eu](https://martin-krebs.eu)
+
 ### ✅ [flux-todo](https://github.com/krebs3r/flux-todo)
 
 Lightweight browser-only todo app with an acrylic / glassmorphism look. No server, no dependencies, just static files.
+
+🔗 Demo / Website: [flux-todo.eu](https://flux-todo.eu)
 
 ### 🤖 [local-llm-cpu-guide](https://github.com/krebs3r/local-llm-cpu-guide)
 
@@ -45,5 +51,6 @@ Interactive AMD and Intel CPU platform comparison for PCIe lanes, multi-GPU conf
 ## 🌐 Links
 
 - Website: [martin-krebs.eu](https://martin-krebs.eu)
+- Paygate Tools: [paygate.paytest.dev](https://paygate.paytest.dev)
+- Todo App: [flux-todo.eu](https://flux-todo.eu)
 - GitHub: [github.com/krebs3r](https://github.com/krebs3r)
-
