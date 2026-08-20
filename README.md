@@ -18,9 +18,7 @@
 
 ## 📌 Featured Projects
 
-### 💳 [computop-tester](https://github.com/krebs3r/computop-tester) 
-
-🔒 (now private Repository)
+### 💳 [computop-tester](https://github.com/krebs3r/computop-tester) 🔒 (now private Repository)
 
 Browser-based Nexi / Computop Paygate payment request builder for Classic HPP, credit card forms, Pay By Link and REST API V1/V2 integrations.
 
