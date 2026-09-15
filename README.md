@@ -40,7 +40,7 @@ Your characters and their playtime in one overview, with search, realm filtering
 
 ## 📌 Web Tools & Experiments
 
-### 💳 [Computop Tester](https://paygate.paytest.dev) 🔒 Private source
+### 💳 [Computop Paygate Tester](https://paygate.paytest.dev)
 
 Browser-based Nexi / Computop Paygate payment request builder for hosted payment pages, credit card forms, Pay By Link and REST APIs.
 
