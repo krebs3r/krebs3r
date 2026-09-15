@@ -1,44 +1,66 @@
 # Hi, I'm Martin 👋
 
 💳 **Senior Technical Solution Manager** focused on digital payments, e-commerce and technical integrations.
-🧑‍💻 I work a lot with **Nexi / Computop Paygate**, APIs, payment flows, web tools and practical tech experiments.
-🏠 In my spare time I like building homelab setups, local LLM environments, self-hosted services and small tools that solve real problems.
+
+🧑‍💻 I work with **Nexi / Computop Paygate**, APIs and payment flows, turning integration requirements into working solutions.
+
+🏠 In my spare time, I build practical web tools and World of Warcraft addons, explore local LLMs and run self-hosted services in my homelab.
 
 ---
 
 ## 🔧 What I work on
 
 * 💳 Payment and API integrations around Nexi / Computop Paygate
-* 🧪 Browser-based testing tools for HPP, Pay By Link, credit card forms and REST APIs
-* 🛠️ Small static web tools with simple deployment
-* 🤖 Local LLMs, hardware comparisons and self-hosting
-* 🏠 Homelab, servers, networking and automation
+* 🧪 Browser-based tools for testing payment requests and responses
+* 🎮 WoW addons that make everyday play more convenient
+* 🛠️ Static web tools, local LLMs and practical tech experiments
+* 🏠 Homelab, networking and automation
 
 ---
 
-## 📌 Featured Projects
+## 🎮 World of Warcraft Addons
 
-### 💳 [computop-tester](https://github.com/krebs3r/computop-tester) 🔒 (now private Repository)
+### [Soundstone – Azeroth Audio](https://github.com/krebs3r/soundstone-azeroth-audio)
 
-Browser-based Nexi / Computop Paygate payment request builder for Classic HPP, credit card forms, Pay By Link and REST API V1/V2 integrations.
+<img src="https://raw.githubusercontent.com/krebs3r/soundstone-azeroth-audio/main/docs/assets/Logo.png" width="64" alt="Soundstone logo: a blue rune stone with golden sound waves">
 
-🔗 Demo / Website: [paygate.paytest.dev](https://paygate.paytest.dev)
+Keep WoW's audio controls within reach: adjust master volume, sound effects and music using a compact bar or an expanded mixer, and select your output device. English and German UI; no other addon required.
 
-### 🪪 [flux-card](https://github.com/krebs3r/flux-card)
+🔗 [GitHub Download](https://github.com/krebs3r/soundstone-azeroth-audio/releases/latest) · [CurseForge](https://www.curseforge.com/wow/addons/soundstone-azeroth-audio)
 
-Modular digital business card template with glassmorphism design, dark/light mode and multi-language support.
+### [Hourstone – Azeroth Hours](https://github.com/krebs3r/hourstone-azeroth-hours)
+
+<img src="https://raw.githubusercontent.com/krebs3r/hourstone-azeroth-hours/main/docs/assets/Logo.png" width="64" alt="Hourstone logo: a blue rune stone with a golden hourglass">
+
+Your characters and their playtime in one overview, with search, realm filtering and a current-session display. Characters are recorded when you log in with the addon enabled; data stays local to each WoW installation and account. No other addon required.
+
+🔗 [GitHub Download](https://github.com/krebs3r/hourstone-azeroth-hours/releases/latest) · [CurseForge](https://www.curseforge.com/wow/addons/hourstone-azeroth-hours)
+
+---
+
+## 📌 Web Tools & Experiments
+
+### 💳 [Computop Paygate Tester](https://paygate.paytest.dev)
+
+Browser-based Nexi / Computop Paygate payment request builder for hosted payment pages, credit card forms, Pay By Link and REST APIs.
+
+🔗 Website: [paygate.paytest.dev](https://paygate.paytest.dev)
+
+### 🪪 [Flux Card](https://github.com/krebs3r/flux-card)
+
+Modular digital business card with glassmorphism design, light/dark themes and German/English content. Customize the content and deploy it as a static website.
 
 🔗 Demo / Website: [martin-krebs.eu](https://martin-krebs.eu)
 
-### ✅ [flux-todo](https://github.com/krebs3r/flux-todo)
+### ✅ [Flux Todo](https://github.com/krebs3r/flux-todo)
 
-Lightweight browser-only todo app with an acrylic / glassmorphism look. No server, no dependencies, just static files.
+Offline-capable, installable todo app with multiple boards, notes and time tracking. Data is stored locally in your browser, with export/import for backups. No account or backend required.
 
 🔗 Demo / Website: [flux-todo.eu](https://flux-todo.eu)
 
-### 🤖 [local-llm-cpu-guide](https://github.com/krebs3r/local-llm-cpu-guide)
+### 🤖 [Local LLM CPU Guide](https://github.com/krebs3r/local-llm-cpu-guide)
 
-Interactive AMD and Intel CPU platform comparison for PCIe lanes, multi-GPU configurations and local LLM suitability.
+Interactive AMD and Intel CPU platform comparison focused on PCIe lanes, multi-GPU configurations and hardware options for local LLM setups.
 
 🔗 Demo / Website: [krebs3r.github.io/local-llm-cpu-guide](https://krebs3r.github.io/local-llm-cpu-guide/)
 
@@ -46,7 +68,7 @@ Interactive AMD and Intel CPU platform comparison for PCIe lanes, multi-GPU conf
 
 ## 🧠 Tech Interests
 
-`Payments` · `E-Commerce` · `Nexi Paygate` · `Computop Paygate` · `REST APIs` · `HTML` · `CSS` · `JavaScript` · `Local LLMs` · `Homelab` · `Self-Hosting`
+`Payments` · `E-Commerce` · `Nexi Paygate` · `Computop Paygate` · `REST APIs` · `HTML` · `CSS` · `JavaScript` · `Lua` · `Local LLMs` · `Homelab` · `Self-Hosting`
 
 ---
 
@@ -61,10 +83,6 @@ While payments, APIs and homelab projects take up quite a bit of space, I also t
 
 ---
 
-## 🌐 Links
+## 🌐 CurseForge
 
-* Website: [martin-krebs.eu](https://martin-krebs.eu)
-* Paygate Tools: [paygate.paytest.dev](https://paygate.paytest.dev)
-* Todo App: [flux-todo.eu](https://flux-todo.eu)
-* Local LLM CPU Guide: [krebs3r.github.io/local-llm-cpu-guide](https://krebs3r.github.io/local-llm-cpu-guide/)
-* GitHub: [github.com/krebs3r](https://github.com/krebs3r)
+You can find all my WoW addons on [my CurseForge project page](https://www.curseforge.com/members/krebs3r/projects).
