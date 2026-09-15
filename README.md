@@ -74,19 +74,15 @@ Interactive AMD and Intel CPU platform comparison focused on PCIe lanes, multi-G
 
 ## ⚖️ Beyond Tech
 
-Away from work and personal projects, I enjoy:
+While payments, APIs and homelab projects take up quite a bit of space, I also try to keep a healthy balance outside of tech:
 
-* 🏋️‍♂️ The occasional gym session to clear my head
-* 🚴‍♂️ Cycling as a counterbalance to time at the desk
-* 👨‍👩‍👧‍👦 Time with my family and life away from the screen
+* 🏋️‍♂️ Going to the gym from time to time to clear my head
+* 🚴‍♂️ Cycling as a counterbalance to long hours at the desk
+* 👨‍👩‍👧‍👦 Enjoying life with my family and being grateful for the time we spend together
+* 🧘‍♂️ Trying to keep technology, work and everyday life in a reasonable balance
 
 ---
 
-## 🌐 Links
+## 🌐 CurseForge
 
-* Website & Contact: [martin-krebs.eu](https://martin-krebs.eu)
-* Paygate Tools: [paygate.paytest.dev](https://paygate.paytest.dev)
-* Todo App: [flux-todo.eu](https://flux-todo.eu)
-* Local LLM CPU Guide: [krebs3r.github.io/local-llm-cpu-guide](https://krebs3r.github.io/local-llm-cpu-guide/)
-* WoW Addons: [CurseForge projects](https://www.curseforge.com/members/krebs3r/projects)
-* GitHub: [github.com/krebs3r](https://github.com/krebs3r)
+You can find all my WoW addons on [my CurseForge project page](https://www.curseforge.com/members/krebs3r/projects).
