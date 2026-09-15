@@ -14,7 +14,7 @@ Both addons work independently and require no additional addon.
 
 Keep WoW's audio controls within reach. Adjust master volume, sound effects and music using a compact bar or an expanded mixer, and select your output device without opening the full audio settings. Includes English and German UI.
 
-[Repository](https://github.com/krebs3r/soundstone-azeroth-audio) · [Download](https://github.com/krebs3r/soundstone-azeroth-audio/releases/latest)
+[Repository](https://github.com/krebs3r/soundstone-azeroth-audio) · [Download](https://github.com/krebs3r/soundstone-azeroth-audio/releases/latest) · [CurseForge](https://www.curseforge.com/wow/addons/soundstone-azeroth-audio)
 
 ### Hourstone – Azeroth Hours
 
@@ -22,7 +22,7 @@ Keep WoW's audio controls within reach. Adjust master volume, sound effects and 
 
 Your characters and their playtime in one overview, with search, realm filtering and a current-session display. Characters are recorded when you log in with the addon enabled; data stays local to each WoW installation and account.
 
-[Repository](https://github.com/krebs3r/hourstone-azeroth-hours) · [Download](https://github.com/krebs3r/hourstone-azeroth-hours/releases/latest)
+[Repository](https://github.com/krebs3r/hourstone-azeroth-hours) · [Download](https://github.com/krebs3r/hourstone-azeroth-hours/releases/latest) · [CurseForge](https://www.curseforge.com/wow/addons/hourstone-azeroth-hours)
 
 ## Web Tools & Experiments
 
