@@ -1,70 +1,63 @@
 # Hi, I'm Martin 👋
 
-💳 **Senior Technical Solution Manager** focused on digital payments, e-commerce and technical integrations.
-🧑‍💻 I work a lot with **Nexi / Computop Paygate**, APIs, payment flows, web tools and practical tech experiments.
-🏠 In my spare time I like building homelab setups, local LLM environments, self-hosted services and small tools that solve real problems.
+I'm a **Senior Technical Solution Manager** focused on digital payments, e-commerce and technical integrations. I work with **Nexi / Computop Paygate**, payment flows and APIs, helping turn integration requirements into working solutions.
 
----
+Outside work, I build practical web tools and World of Warcraft addons, experiment with local LLMs and run self-hosted services in my homelab. Most of my projects start with something I want to make easier in everyday use.
 
-## 🔧 What I work on
+## World of Warcraft Addons
 
-* 💳 Payment and API integrations around Nexi / Computop Paygate
-* 🧪 Browser-based testing tools for HPP, Pay By Link, credit card forms and REST APIs
-* 🛠️ Small static web tools with simple deployment
-* 🤖 Local LLMs, hardware comparisons and self-hosting
-* 🏠 Homelab, servers, networking and automation
+Both addons work independently and require no additional addon.
 
----
+### Soundstone – Azeroth Audio
 
-## 📌 Featured Projects
+<img src="https://raw.githubusercontent.com/krebs3r/soundstone-azeroth-audio/main/docs/assets/Logo.png" width="64" alt="Soundstone logo: a blue rune stone with golden sound waves">
 
-### 💳 [computop-tester](https://github.com/krebs3r/computop-tester) 🔒 (now private Repository)
+Keep WoW's audio controls within reach. Adjust master volume, sound effects and music using a compact bar or an expanded mixer, and select your output device without opening the full audio settings. Includes English and German UI.
 
-Browser-based Nexi / Computop Paygate payment request builder for Classic HPP, credit card forms, Pay By Link and REST API V1/V2 integrations.
+[Repository](https://github.com/krebs3r/soundstone-azeroth-audio) · [Download](https://github.com/krebs3r/soundstone-azeroth-audio/releases/latest)
 
-🔗 Demo / Website: [paygate.paytest.dev](https://paygate.paytest.dev)
+### Hourstone – Azeroth Hours
 
-### 🪪 [flux-card](https://github.com/krebs3r/flux-card)
+<img src="https://raw.githubusercontent.com/krebs3r/hourstone-azeroth-hours/main/docs/assets/Logo.png" width="64" alt="Hourstone logo: a blue rune stone with a golden hourglass">
 
-Modular digital business card template with glassmorphism design, dark/light mode and multi-language support.
+Your characters and their playtime in one overview, with search, realm filtering and a current-session display. Characters are recorded when you log in with the addon enabled; data stays local to each WoW installation and account.
 
-🔗 Demo / Website: [martin-krebs.eu](https://martin-krebs.eu)
+[Repository](https://github.com/krebs3r/hourstone-azeroth-hours) · [Download](https://github.com/krebs3r/hourstone-azeroth-hours/releases/latest)
 
-### ✅ [flux-todo](https://github.com/krebs3r/flux-todo)
+## Web Tools & Experiments
 
-Lightweight browser-only todo app with an acrylic / glassmorphism look. No server, no dependencies, just static files.
+### Computop Tester
 
-🔗 Demo / Website: [flux-todo.eu](https://flux-todo.eu)
+A browser-based payment request builder for Nexi / Computop Paygate integrations, covering hosted payment pages, credit card forms, Pay By Link and REST APIs. **Private source.**
 
-### 🤖 [local-llm-cpu-guide](https://github.com/krebs3r/local-llm-cpu-guide)
+[Website](https://paygate.paytest.dev)
 
-Interactive AMD and Intel CPU platform comparison for PCIe lanes, multi-GPU configurations and local LLM suitability.
+### Flux Card
 
-🔗 Demo / Website: [krebs3r.github.io/local-llm-cpu-guide](https://krebs3r.github.io/local-llm-cpu-guide/)
+A modular digital business card with German and English content, light and dark themes, and a glassmorphism design. Customize the content and deploy it as a static website.
 
----
+[Repository](https://github.com/krebs3r/flux-card) · [Live demo](https://martin-krebs.eu)
 
-## 🧠 Tech Interests
+### Flux Todo
 
-`Payments` · `E-Commerce` · `Nexi Paygate` · `Computop Paygate` · `REST APIs` · `HTML` · `CSS` · `JavaScript` · `Local LLMs` · `Homelab` · `Self-Hosting`
+An offline-capable, installable todo app with multiple boards, notes and time tracking. Tasks are stored locally in your browser, with export and import for backups; no account or backend required.
 
----
+[Repository](https://github.com/krebs3r/flux-todo) · [Try it](https://flux-todo.eu)
 
-## ⚖️ Beyond Tech
+### Local LLM CPU Guide
 
-While payments, APIs and homelab projects take up quite a bit of space, I also try to keep a healthy balance outside of tech:
+An interactive AMD and Intel CPU platform comparison focused on PCIe lanes and multi-GPU configurations. Explore hardware options for local LLM setups and compare platforms side by side.
 
-* 🏋️‍♂️ Going to the gym from time to time to clear my head
-* 🚴‍♂️ Cycling as a counterbalance to long hours at the desk
-* 👨‍👩‍👧‍👦 Enjoying life with my family and being grateful for the time we spend together
-* 🧘‍♂️ Trying to keep technology, work and everyday life in a reasonable balance
+[Repository](https://github.com/krebs3r/local-llm-cpu-guide) · [Open guide](https://krebs3r.github.io/local-llm-cpu-guide/)
 
----
+## Tech & Interests
 
-## 🌐 Links
+Payments · REST APIs · HTML / CSS / JavaScript · Lua · Local LLMs · Homelab & Self-Hosting
 
-* Website: [martin-krebs.eu](https://martin-krebs.eu)
-* Paygate Tools: [paygate.paytest.dev](https://paygate.paytest.dev)
-* Todo App: [flux-todo.eu](https://flux-todo.eu)
-* Local LLM CPU Guide: [krebs3r.github.io/local-llm-cpu-guide](https://krebs3r.github.io/local-llm-cpu-guide/)
-* GitHub: [github.com/krebs3r](https://github.com/krebs3r)
+## Beyond Tech
+
+Family time, cycling and the occasional gym session help me recharge and keep a healthy balance between work, projects and life away from the screen.
+
+## Connect
+
+Find more about me and ways to get in touch at **[martin-krebs.eu](https://martin-krebs.eu)**.
