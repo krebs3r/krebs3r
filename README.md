@@ -26,25 +26,25 @@ Your characters and their playtime in one overview, with search, realm filtering
 
 ## Web Tools & Experiments
 
-### Computop Tester
+### 💳 Computop Tester
 
 A browser-based payment request builder for Nexi / Computop Paygate integrations, covering hosted payment pages, credit card forms, Pay By Link and REST APIs. **Private source.**
 
 [Website](https://paygate.paytest.dev)
 
-### Flux Card
+### 🪪 Flux Card
 
 A modular digital business card with German and English content, light and dark themes, and a glassmorphism design. Customize the content and deploy it as a static website.
 
 [Repository](https://github.com/krebs3r/flux-card) · [Live demo](https://martin-krebs.eu)
 
-### Flux Todo
+### ✅ Flux Todo
 
 An offline-capable, installable todo app with multiple boards, notes and time tracking. Tasks are stored locally in your browser, with export and import for backups; no account or backend required.
 
 [Repository](https://github.com/krebs3r/flux-todo) · [Try it](https://flux-todo.eu)
 
-### Local LLM CPU Guide
+### 🤖 Local LLM CPU Guide
 
 An interactive AMD and Intel CPU platform comparison focused on PCIe lanes and multi-GPU configurations. Explore hardware options for local LLM setups and compare platforms side by side.
 
