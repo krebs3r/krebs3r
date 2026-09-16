@@ -12,13 +12,13 @@
 
 * 💳 Payment and API integrations around Nexi / Computop Paygate
 * 🧪 Browser-based tools for testing payment requests and responses
-* 🎮 WoW addons that make everyday play more convenient
+* 🎮 WoW addons and companion tools that make everyday play more convenient
 * 🛠️ Static web tools, local LLMs and practical tech experiments
 * 🏠 Homelab, networking and automation
 
 ---
 
-## 🎮 World of Warcraft Addons
+## 🎮 World of Warcraft Addons & Tools
 
 ### [Soundstone – Azeroth Audio](https://github.com/krebs3r/soundstone-azeroth-audio)
 
@@ -32,9 +32,18 @@ Keep WoW's audio controls within reach: adjust master volume, sound effects and 
 
 <img src="https://raw.githubusercontent.com/krebs3r/hourstone-azeroth-hours/main/docs/assets/Logo.png" width="64" alt="Hourstone logo: a blue rune stone with a golden hourglass">
 
-Your characters and their playtime in one overview, with search, realm filtering and a current-session display. Characters are recorded when you log in with the addon enabled; data stays local to each WoW installation and account. No other addon required.
+Your characters and their playtime in one overview, with search, realm filtering and a current-session display. Characters are recorded when you log in with the addon enabled. The addon works independently; the optional Hourstone Companion combines saved data across WoW clients and supports synchronization between your own PCs.
 
 🔗 [GitHub Download](https://github.com/krebs3r/hourstone-azeroth-hours/releases/latest) · [CurseForge](https://www.curseforge.com/wow/addons/hourstone-azeroth-hours)
+
+### [Hourstone Companion](https://github.com/krebs3r/hourstone-companion)
+
+Optional Windows companion for Hourstone – Azeroth Hours. Browse saved character
+playtime across WoW clients, with optional synchronization between your own PCs
+through a Dropbox, OneDrive or other synchronized folder. No Companion account
+or hosted Hourstone server required.
+
+🔗 [Windows Download](https://github.com/krebs3r/hourstone-companion/releases/latest) · Early release for Windows 11 x64
 
 ---
 
