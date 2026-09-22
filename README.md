@@ -20,7 +20,7 @@
 
 ## 🎮 World of Warcraft Addons & Tools
 
-### 🌑 [Umbra Unit Frames](https://github.com/krebs3r/umbra-unit-frames)
+<h3 align="center">🌑 <a href="https://github.com/krebs3r/umbra-unit-frames">Umbra Unit Frames</a></h3>
 
 <p align="center"><img src="https://raw.githubusercontent.com/krebs3r/umbra-unit-frames/main/assets/logo-512.png" width="64" alt="Umbra Unit Frames logo: a golden medallion around a blue-violet eclipsed moon"></p>
 
@@ -28,7 +28,7 @@ Compact, readable unit frames for WoW Retail and WoW: Forever, inspired by Shado
 
 🔗 [GitHub Download](https://github.com/krebs3r/umbra-unit-frames/releases/latest) · [CurseForge](https://www.curseforge.com/wow/addons/umbra-unit-frames)
 
-### 🔊 [Soundstone – Azeroth Audio](https://github.com/krebs3r/soundstone-azeroth-audio)
+<h3 align="center">🔊 <a href="https://github.com/krebs3r/soundstone-azeroth-audio">Soundstone – Azeroth Audio</a></h3>
 
 <p align="center"><img src="https://raw.githubusercontent.com/krebs3r/soundstone-azeroth-audio/main/docs/assets/Logo.png" width="64" alt="Soundstone logo: a blue rune stone with golden sound waves"></p>
 
@@ -36,7 +36,7 @@ Keep WoW's audio controls within reach: adjust master volume, sound effects and 
 
 🔗 [GitHub Download](https://github.com/krebs3r/soundstone-azeroth-audio/releases/latest) · [CurseForge](https://www.curseforge.com/wow/addons/soundstone-azeroth-audio)
 
-### ⏳ [Hourstone – Azeroth Hours](https://github.com/krebs3r/hourstone-azeroth-hours)
+<h3 align="center">⏳ <a href="https://github.com/krebs3r/hourstone-azeroth-hours">Hourstone – Azeroth Hours</a></h3>
 
 <p align="center"><img src="https://raw.githubusercontent.com/krebs3r/hourstone-azeroth-hours/main/docs/assets/Logo.png" width="64" alt="Hourstone logo: a blue rune stone with a golden hourglass"></p>
 
