@@ -13,7 +13,7 @@
 * 💳 Payment and API integrations around Nexi / Computop Paygate
 * 🧪 Browser-based tools for testing payment requests and responses
 * 🎮 WoW addons and companion tools that make everyday play more convenient
-* 🛠️ Static web tools, local LLMs and practical tech experiments
+* 🛠️ Web tools, local LLMs and practical tech experiments
 * 🏠 Homelab, networking and automation
 
 ---
