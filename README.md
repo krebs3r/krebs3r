@@ -20,7 +20,15 @@
 
 ## 🎮 World of Warcraft Addons & Tools
 
-### [Soundstone – Azeroth Audio](https://github.com/krebs3r/soundstone-azeroth-audio)
+### 🌑 [Umbra Unit Frames](https://github.com/krebs3r/umbra-unit-frames)
+
+<img src="https://raw.githubusercontent.com/krebs3r/umbra-unit-frames/main/assets/logo-512.png" width="64" alt="Umbra Unit Frames logo: a golden medallion around a blue-violet eclipsed moon">
+
+Compact, readable unit frames for WoW Retail and WoW: Forever, inspired by ShadowedUnitFrames with a look of its own. Class color sits on a 3-pixel edge instead of the health bar, every frame gets its own rectangular portrait column, and mana, energy or rage run as a hairline beneath the health bar. Player, target, pet, target of target, boss and party frames are covered; everything is configured through `/uuf`.
+
+🔗 [GitHub Download](https://github.com/krebs3r/umbra-unit-frames/releases/latest) · [CurseForge](https://www.curseforge.com/wow/addons/umbra-unit-frames)
+
+### 🔊 [Soundstone – Azeroth Audio](https://github.com/krebs3r/soundstone-azeroth-audio)
 
 <img src="https://raw.githubusercontent.com/krebs3r/soundstone-azeroth-audio/main/docs/assets/Logo.png" width="64" alt="Soundstone logo: a blue rune stone with golden sound waves">
 
@@ -28,30 +36,19 @@ Keep WoW's audio controls within reach: adjust master volume, sound effects and 
 
 🔗 [GitHub Download](https://github.com/krebs3r/soundstone-azeroth-audio/releases/latest) · [CurseForge](https://www.curseforge.com/wow/addons/soundstone-azeroth-audio)
 
-### [Hourstone – Azeroth Hours](https://github.com/krebs3r/hourstone-azeroth-hours)
+### ⏳ [Hourstone – Azeroth Hours](https://github.com/krebs3r/hourstone-azeroth-hours)
 
 <img src="https://raw.githubusercontent.com/krebs3r/hourstone-azeroth-hours/main/docs/assets/Logo.png" width="64" alt="Hourstone logo: a blue rune stone with a golden hourglass">
 
-Your characters and their playtime in one overview, with search, realm filtering and a current-session display. Characters are recorded when you log in with the addon enabled. The addon works independently; the optional Hourstone Companion combines saved data across WoW clients and supports synchronization between your own PCs.
+Your characters and their total playtime in one compact window, with search by character or guild, realm and client filters and a current-session display. In Retail, a Progress tab adds the current keystone, your weekly Mythic+ best and the nine Great Vault slots. Characters are recorded when you log in with the addon enabled. The addon works independently; the optional Hourstone Companion combines saved data across WoW clients and supports synchronization between your own PCs.
 
 🔗 [GitHub Download](https://github.com/krebs3r/hourstone-azeroth-hours/releases/latest) · [CurseForge](https://www.curseforge.com/wow/addons/hourstone-azeroth-hours)
 
-### [Hourstone Companion](https://github.com/krebs3r/hourstone-companion)
+### 🪟 [Hourstone Companion](https://github.com/krebs3r/hourstone-companion)
 
-Optional Windows companion for Hourstone – Azeroth Hours. Browse saved character
-playtime across WoW clients, with optional synchronization between your own PCs
-through a Dropbox, OneDrive or other synchronized folder. No Companion account
-or hosted Hourstone server required.
+Optional Windows companion for Hourstone – Azeroth Hours. Browse saved character playtime across WoW clients, with optional synchronization between your own PCs through a Dropbox, OneDrive or other synchronized folder. No Companion account or hosted Hourstone server required.
 
 🔗 [Windows Download](https://github.com/krebs3r/hourstone-companion/releases/latest) · Early release for Windows 11 x64
-
-### [Umbra Unit Frames](https://github.com/krebs3r/umbra-unit-frames)
-
-<img src="https://raw.githubusercontent.com/krebs3r/umbra-unit-frames/main/assets/logo-512.png" width="64" alt="Umbra Unit Frames logo: a golden medallion around a blue-violet eclipsed moon">
-
-Compact, readable unit frames for WoW Retail and WoW: Forever, inspired by ShadowedUnitFrames with a look of its own. Class color sits on a 3-pixel edge instead of the health bar, every frame gets its own rectangular portrait column, and mana, energy or rage run as a hairline beneath the health bar. Player, target, pet, target of target, boss and party frames are covered; everything is configured through `/uuf`.
-
-🔗 [GitHub Download](https://github.com/krebs3r/umbra-unit-frames/releases/latest) · [CurseForge](https://www.curseforge.com/wow/addons/umbra-unit-frames)
 
 ---
 
