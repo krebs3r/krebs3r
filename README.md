@@ -1,8 +1,8 @@
 # Hi, I'm Martin 👋
 
-💳 **Senior Technical Solution Manager** focused on digital payments, e-commerce and technical integrations.
+💳 Working in digital payments, e-commerce and technical integrations.
 
-🧑‍💻 I work with **Nexi / Computop Paygate**, APIs and payment flows, turning integration requirements into working solutions.
+🧑‍💻 I work with APIs and payment flows, turning integration requirements into working solutions.
 
 🏠 In my spare time, I build practical web tools and World of Warcraft addons, explore local LLMs and run self-hosted services in my homelab.
 
@@ -26,7 +26,7 @@
 
 Compact, readable unit frames for WoW Retail and WoW: Forever, inspired by ShadowedUnitFrames with a look of its own. Class color sits on a 3-pixel edge instead of the health bar, every frame gets its own rectangular portrait column, and mana, energy or rage run as a hairline beneath the health bar. Player, target, pet, target of target, boss and party frames are covered; everything is configured through `/uuf`.
 
-🔗 [GitHub Download](https://github.com/krebs3r/umbra-unit-frames/releases/latest) · [CurseForge](https://www.curseforge.com/wow/addons/umbra-unit-frames)
+<p align="center">🔗 <a href="https://github.com/krebs3r/umbra-unit-frames/releases/latest">GitHub Download</a> · <a href="https://www.curseforge.com/wow/addons/umbra-unit-frames">CurseForge</a></p>
 
 <h3 align="center">🔊 <a href="https://github.com/krebs3r/soundstone-azeroth-audio">Soundstone – Azeroth Audio</a></h3>
 
@@ -34,7 +34,7 @@ Compact, readable unit frames for WoW Retail and WoW: Forever, inspired by Shado
 
 Keep WoW's audio controls within reach: adjust master volume, sound effects and music using a compact bar or an expanded mixer, and select your output device. English and German UI; no other addon required.
 
-🔗 [GitHub Download](https://github.com/krebs3r/soundstone-azeroth-audio/releases/latest) · [CurseForge](https://www.curseforge.com/wow/addons/soundstone-azeroth-audio)
+<p align="center">🔗 <a href="https://github.com/krebs3r/soundstone-azeroth-audio/releases/latest">GitHub Download</a> · <a href="https://www.curseforge.com/wow/addons/soundstone-azeroth-audio">CurseForge</a></p>
 
 <h3 align="center">⏳ <a href="https://github.com/krebs3r/hourstone-azeroth-hours">Hourstone – Azeroth Hours</a></h3>
 
@@ -42,13 +42,13 @@ Keep WoW's audio controls within reach: adjust master volume, sound effects and 
 
 Your characters and their total playtime in one compact window, with search by character or guild, realm and client filters and a current-session display. In Retail, a Progress tab adds the current keystone, your weekly Mythic+ best and the nine Great Vault slots. Characters are recorded when you log in with the addon enabled. The addon works independently; the optional Hourstone Companion combines saved data across WoW clients and supports synchronization between your own PCs.
 
-🔗 [GitHub Download](https://github.com/krebs3r/hourstone-azeroth-hours/releases/latest) · [CurseForge](https://www.curseforge.com/wow/addons/hourstone-azeroth-hours)
+<p align="center">🔗 <a href="https://github.com/krebs3r/hourstone-azeroth-hours/releases/latest">GitHub Download</a> · <a href="https://www.curseforge.com/wow/addons/hourstone-azeroth-hours">CurseForge</a></p>
 
 ### 🪟 [Hourstone Companion](https://github.com/krebs3r/hourstone-companion)
 
 Optional Windows companion for Hourstone – Azeroth Hours. Browse saved character playtime across WoW clients, with optional synchronization between your own PCs through a Dropbox, OneDrive or other synchronized folder. No Companion account or hosted Hourstone server required.
 
-🔗 [Windows Download](https://github.com/krebs3r/hourstone-companion/releases/latest) · Early release for Windows 11 x64
+<p align="center">🔗 <a href="https://github.com/krebs3r/hourstone-companion/releases/latest">Windows Download</a> · Early release for Windows 11 x64</p>
 
 ---
 
@@ -58,25 +58,25 @@ Optional Windows companion for Hourstone – Azeroth Hours. Browse saved charact
 
 Browser-based Nexi / Computop Paygate payment request builder for hosted payment pages, credit card forms, Pay By Link and REST APIs.
 
-🔗 Website: [paygate.paytest.dev](https://paygate.paytest.dev)
+<p align="center">🔗 Website: <a href="https://paygate.paytest.dev">paygate.paytest.dev</a></p>
 
 ### 🪪 [Flux Card](https://github.com/krebs3r/flux-card)
 
 Modular digital business card with glassmorphism design, light/dark themes and German/English content. Customize the content and deploy it as a static website.
 
-🔗 Demo / Website: [martin-krebs.eu](https://martin-krebs.eu)
+<p align="center">🔗 Demo / Website: <a href="https://martin-krebs.eu">martin-krebs.eu</a></p>
 
 ### ✅ [Flux Todo](https://github.com/krebs3r/flux-todo)
 
 Offline-capable, installable todo app with multiple boards, notes and time tracking. Data is stored locally in your browser, with export/import for backups. No account or backend required.
 
-🔗 Demo / Website: [flux-todo.eu](https://flux-todo.eu)
+<p align="center">🔗 Demo / Website: <a href="https://flux-todo.eu">flux-todo.eu</a></p>
 
 ### 🤖 [Local LLM CPU Guide](https://github.com/krebs3r/local-llm-cpu-guide)
 
 Interactive AMD and Intel CPU platform comparison focused on PCIe lanes, multi-GPU configurations and hardware options for local LLM setups.
 
-🔗 Demo / Website: [krebs3r.github.io/local-llm-cpu-guide](https://krebs3r.github.io/local-llm-cpu-guide/)
+<p align="center">🔗 Demo / Website: <a href="https://krebs3r.github.io/local-llm-cpu-guide/">krebs3r.github.io/local-llm-cpu-guide</a></p>
 
 ---
 
@@ -99,4 +99,4 @@ While payments, APIs and homelab projects take up quite a bit of space, I also t
 
 ## 🌐 CurseForge
 
-You can find all my WoW addons on [my CurseForge project page](https://www.curseforge.com/members/krebs3r/projects).
+<p align="center">You can find all my WoW addons on <a href="https://www.curseforge.com/members/krebs3r/projects">my CurseForge project page</a>.</p>
