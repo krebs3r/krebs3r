@@ -45,6 +45,14 @@ or hosted Hourstone server required.
 
 🔗 [Windows Download](https://github.com/krebs3r/hourstone-companion/releases/latest) · Early release for Windows 11 x64
 
+### [Umbra Unit Frames](https://github.com/krebs3r/umbra-unit-frames)
+
+<img src="https://raw.githubusercontent.com/krebs3r/umbra-unit-frames/main/assets/logo-512.png" width="64" alt="Umbra Unit Frames logo: a golden medallion around a blue-violet eclipsed moon">
+
+Compact, readable unit frames for WoW Retail and WoW: Forever, inspired by ShadowedUnitFrames with a look of its own. Class color sits on a 3-pixel edge instead of the health bar, every frame gets its own rectangular portrait column, and mana, energy or rage run as a hairline beneath the health bar. Player, target, pet, target of target, boss and party frames are covered; everything is configured through `/uuf`.
+
+🔗 [GitHub Download](https://github.com/krebs3r/umbra-unit-frames/releases/latest) · [CurseForge](https://www.curseforge.com/wow/addons/umbra-unit-frames)
+
 ---
 
 ## 📌 Web Tools & Experiments
