@@ -22,7 +22,7 @@
 
 ### 🌑 [Umbra Unit Frames](https://github.com/krebs3r/umbra-unit-frames)
 
-<img src="https://raw.githubusercontent.com/krebs3r/umbra-unit-frames/main/assets/logo-512.png" width="64" alt="Umbra Unit Frames logo: a golden medallion around a blue-violet eclipsed moon">
+<p align="center"><img src="https://raw.githubusercontent.com/krebs3r/umbra-unit-frames/main/assets/logo-512.png" width="64" alt="Umbra Unit Frames logo: a golden medallion around a blue-violet eclipsed moon"></p>
 
 Compact, readable unit frames for WoW Retail and WoW: Forever, inspired by ShadowedUnitFrames with a look of its own. Class color sits on a 3-pixel edge instead of the health bar, every frame gets its own rectangular portrait column, and mana, energy or rage run as a hairline beneath the health bar. Player, target, pet, target of target, boss and party frames are covered; everything is configured through `/uuf`.
 
@@ -30,7 +30,7 @@ Compact, readable unit frames for WoW Retail and WoW: Forever, inspired by Shado
 
 ### 🔊 [Soundstone – Azeroth Audio](https://github.com/krebs3r/soundstone-azeroth-audio)
 
-<img src="https://raw.githubusercontent.com/krebs3r/soundstone-azeroth-audio/main/docs/assets/Logo.png" width="64" alt="Soundstone logo: a blue rune stone with golden sound waves">
+<p align="center"><img src="https://raw.githubusercontent.com/krebs3r/soundstone-azeroth-audio/main/docs/assets/Logo.png" width="64" alt="Soundstone logo: a blue rune stone with golden sound waves"></p>
 
 Keep WoW's audio controls within reach: adjust master volume, sound effects and music using a compact bar or an expanded mixer, and select your output device. English and German UI; no other addon required.
 
@@ -38,7 +38,7 @@ Keep WoW's audio controls within reach: adjust master volume, sound effects and 
 
 ### ⏳ [Hourstone – Azeroth Hours](https://github.com/krebs3r/hourstone-azeroth-hours)
 
-<img src="https://raw.githubusercontent.com/krebs3r/hourstone-azeroth-hours/main/docs/assets/Logo.png" width="64" alt="Hourstone logo: a blue rune stone with a golden hourglass">
+<p align="center"><img src="https://raw.githubusercontent.com/krebs3r/hourstone-azeroth-hours/main/docs/assets/Logo.png" width="64" alt="Hourstone logo: a blue rune stone with a golden hourglass"></p>
 
 Your characters and their total playtime in one compact window, with search by character or guild, realm and client filters and a current-session display. In Retail, a Progress tab adds the current keystone, your weekly Mythic+ best and the nine Great Vault slots. Characters are recorded when you log in with the addon enabled. The addon works independently; the optional Hourstone Companion combines saved data across WoW clients and supports synchronization between your own PCs.
 
