@@ -44,7 +44,7 @@ Your characters and their total playtime in one compact window, with search by c
 
 <p align="center">🔗 <a href="https://github.com/krebs3r/hourstone-azeroth-hours/releases/latest">GitHub Download</a> · <a href="https://www.curseforge.com/wow/addons/hourstone-azeroth-hours">CurseForge</a></p>
 
-<h3 align="center">🪟 <a href="https://github.com/krebs3r/hourstone-companion">Hourstone Companion</a></h3>
+### 🪟 [Hourstone Companion](https://github.com/krebs3r/hourstone-companion)
 
 Optional Windows companion for Hourstone – Azeroth Hours. Browse saved character playtime across WoW clients, with optional synchronization between your own PCs through a Dropbox, OneDrive or other synchronized folder. No Companion account or hosted Hourstone server required.
 
@@ -54,25 +54,25 @@ Optional Windows companion for Hourstone – Azeroth Hours. Browse saved charact
 
 ## 📌 Web Tools & Experiments
 
-<h3 align="center">💳 <a href="https://paygate.paytest.dev">Computop Paygate Tester</a></h3>
+### 💳 [Computop Paygate Tester](https://paygate.paytest.dev)
 
 Browser-based Nexi / Computop Paygate payment request builder for hosted payment pages, credit card forms, Pay By Link and REST APIs.
 
 <p align="center">🔗 Website: <a href="https://paygate.paytest.dev">paygate.paytest.dev</a></p>
 
-<h3 align="center">🪪 <a href="https://github.com/krebs3r/flux-card">Flux Card</a></h3>
+### 🪪 [Flux Card](https://github.com/krebs3r/flux-card)
 
 Modular digital business card with glassmorphism design, light/dark themes and German/English content. Customize the content and deploy it as a static website.
 
 <p align="center">🔗 Demo / Website: <a href="https://martin-krebs.eu">martin-krebs.eu</a></p>
 
-<h3 align="center">✅ <a href="https://github.com/krebs3r/flux-todo">Flux Todo</a></h3>
+### ✅ [Flux Todo](https://github.com/krebs3r/flux-todo)
 
 Offline-capable, installable todo app with multiple boards, notes and time tracking. Data is stored locally in your browser, with export/import for backups. No account or backend required.
 
 <p align="center">🔗 Demo / Website: <a href="https://flux-todo.eu">flux-todo.eu</a></p>
 
-<h3 align="center">🤖 <a href="https://github.com/krebs3r/local-llm-cpu-guide">Local LLM CPU Guide</a></h3>
+### 🤖 [Local LLM CPU Guide](https://github.com/krebs3r/local-llm-cpu-guide)
 
 Interactive AMD and Intel CPU platform comparison focused on PCIe lanes, multi-GPU configurations and hardware options for local LLM setups.
 
