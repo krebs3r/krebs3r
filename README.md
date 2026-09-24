@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="krebs3r – payments by day, Azeroth by night: APIs, WoW addons, web tools, local LLMs and homelab">
+  <img src="assets/header.svg" width="100%" alt="Payments by day, Azeroth by night: a sun over payment flow lines, an eclipsed moon and a small crab">
 </p>
 
 <h1 align="center">Hi, I'm Martin 👋</h1>
