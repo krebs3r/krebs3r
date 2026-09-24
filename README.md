@@ -87,25 +87,41 @@ Optional Windows companion for Hourstone – Azeroth Hours. Browse saved charact
 
 Browser-based Nexi / Computop Paygate payment request builder for hosted payment pages, credit card forms, Pay By Link and REST APIs.
 
-<p align="center">🔗 Website: <a href="https://paygate.paytest.dev">paygate.paytest.dev</a> <img src="https://img.shields.io/website?url=https%3A%2F%2Fpaygate.paytest.dev&style=flat-square&up_message=online&down_message=offline" alt="Website status" align="absmiddle"></p>
+<p align="center">🔗 Website: <a href="https://paygate.paytest.dev">paygate.paytest.dev</a></p>
+
+<p align="center">
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fpaygate.paytest.dev&style=flat-square&up_message=online&down_message=offline" alt="Website status">
+</p>
 
 ### 🪪 [Flux Card](https://github.com/krebs3r/flux-card)
 
 Modular digital business card with glassmorphism design, light/dark themes and German/English content. Customize the content and deploy it as a static website.
 
-<p align="center">🔗 Demo / Website: <a href="https://martin-krebs.eu">martin-krebs.eu</a> <img src="https://img.shields.io/website?url=https%3A%2F%2Fmartin-krebs.eu&style=flat-square&up_message=online&down_message=offline" alt="Website status" align="absmiddle"></p>
+<p align="center">🔗 Demo / Website: <a href="https://martin-krebs.eu">martin-krebs.eu</a></p>
+
+<p align="center">
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fmartin-krebs.eu&style=flat-square&up_message=online&down_message=offline" alt="Website status">
+</p>
 
 ### ✅ [Flux Todo](https://github.com/krebs3r/flux-todo)
 
 Offline-capable, installable todo app with multiple boards, notes and time tracking. Data is stored locally in your browser, with export/import for backups. No account or backend required.
 
-<p align="center">🔗 Demo / Website: <a href="https://flux-todo.eu">flux-todo.eu</a> <img src="https://img.shields.io/website?url=https%3A%2F%2Fflux-todo.eu&style=flat-square&up_message=online&down_message=offline" alt="Website status" align="absmiddle"></p>
+<p align="center">🔗 Demo / Website: <a href="https://flux-todo.eu">flux-todo.eu</a></p>
+
+<p align="center">
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fflux-todo.eu&style=flat-square&up_message=online&down_message=offline" alt="Website status">
+</p>
 
 ### 🤖 [Local LLM CPU Guide](https://github.com/krebs3r/local-llm-cpu-guide)
 
 Interactive AMD and Intel CPU platform comparison focused on PCIe lanes, multi-GPU configurations and hardware options for local LLM setups.
 
-<p align="center">🔗 Demo / Website: <a href="https://krebs3r.github.io/local-llm-cpu-guide/">krebs3r.github.io/local-llm-cpu-guide</a> <img src="https://img.shields.io/website?url=https%3A%2F%2Fkrebs3r.github.io%2Flocal-llm-cpu-guide%2F&style=flat-square&up_message=online&down_message=offline" alt="Website status" align="absmiddle"></p>
+<p align="center">🔗 Demo / Website: <a href="https://krebs3r.github.io/local-llm-cpu-guide/">krebs3r.github.io/local-llm-cpu-guide</a></p>
+
+<p align="center">
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fkrebs3r.github.io%2Flocal-llm-cpu-guide%2F&style=flat-square&up_message=online&down_message=offline" alt="Website status">
+</p>
 
 ---
 
