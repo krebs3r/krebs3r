@@ -20,7 +20,7 @@
 
 ## 🔧 What I work on
 
-* 💳 Payment and API integrations around Nexi / Computop Paygate
+* 💳 Payment and API integrations
 * 🧪 Browser-based tools for testing payment requests and responses
 * 🎮 WoW addons and companion tools that make everyday play more convenient
 * 🛠️ Web tools, local LLMs and practical tech experiments
