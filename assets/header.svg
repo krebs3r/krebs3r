@@ -53,6 +53,8 @@
       <stop offset="1" stop-color="#e8b94a" stop-opacity="0"/>
     </radialGradient>
     <path id="flow" d="M40 90 H180 L210 120 H320 L350 90 H362"/>
+    <path id="flowRest" d="M40 90 H180 L210 120 H260 V60 H330"/>
+    <path id="flowApi" d="M40 205 H120 L150 175 H250 L285 210 H360"/>
   </defs>
 
   <style>
@@ -97,7 +99,7 @@
     <g fill="none" stroke="#9fb0e8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.45">
       <use xlink:href="#flow"/>
       <path d="M260 120 V60 H330"/>
-      <path d="M40 205 H120 L150 175 H250 L285 210 H360"/>
+      <use xlink:href="#flowApi"/>
       <path d="M80 245 H200 L225 220"/>
     </g>
     <g fill="#1f1c58" stroke="#9fb0e8" stroke-width="2" opacity="0.8">
@@ -127,17 +129,29 @@
       <rect x="26" y="30" width="28" height="3" rx="1.5" fill="#9fb0e8" opacity="0.5"/>
     </g>
 
-    <!-- request dot travelling along the flow -->
-    <circle r="10" fill="#e8b94a" opacity="0.35" filter="url(#soft)">
-      <animateMotion dur="4s" repeatCount="indefinite">
+    <!-- request dot: twice along the main flow, then once up to REST -->
+    <g>
+      <circle r="10" fill="#e8b94a" opacity="0.35" filter="url(#soft)"/>
+      <circle r="4.5" fill="#ffe29a"/>
+      <animateMotion id="pay1" dur="4s" begin="0s; rest.end">
         <mpath xlink:href="#flow"/>
       </animateMotion>
-    </circle>
-    <circle r="4.5" fill="#ffe29a">
-      <animateMotion dur="4s" repeatCount="indefinite">
+      <animateMotion id="pay2" dur="4s" begin="pay1.end">
         <mpath xlink:href="#flow"/>
       </animateMotion>
-    </circle>
+      <animateMotion id="rest" dur="3.5s" begin="pay2.end">
+        <mpath xlink:href="#flowRest"/>
+      </animateMotion>
+    </g>
+
+    <!-- response dot from API to 200 OK -->
+    <g>
+      <circle r="10" fill="#e8b94a" opacity="0.35" filter="url(#soft)"/>
+      <circle r="4.5" fill="#ffe29a"/>
+      <animateMotion dur="5s" repeatCount="indefinite">
+        <mpath xlink:href="#flowApi"/>
+      </animateMotion>
+    </g>
 
     <!-- by night: stars -->
     <g fill="#ffffff">
