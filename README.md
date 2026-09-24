@@ -1,4 +1,8 @@
-# Hi, I'm Martin 👋
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="krebs3r – payments by day, Azeroth by night: APIs, WoW addons, web tools, local LLMs and homelab">
+</p>
+
+<h1 align="center">Hi, I'm Martin 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krebs3r&style=flat-square&color=blueviolet&label=Profile+views" alt="Profile views">
