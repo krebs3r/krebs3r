@@ -52,7 +52,7 @@
       <stop offset="0.4" stop-color="#e8b94a" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#e8b94a" stop-opacity="0"/>
     </radialGradient>
-    <path id="flow" d="M40 90 H180 L210 120 H320 L350 90 H370"/>
+    <path id="flow" d="M40 90 H180 L210 120 H320 L350 90 H362"/>
   </defs>
 
   <style>
@@ -97,7 +97,7 @@
     <g fill="none" stroke="#9fb0e8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.45">
       <use xlink:href="#flow"/>
       <path d="M260 120 V60 H330"/>
-      <path d="M40 205 H120 L150 175 H250 L285 210 H390"/>
+      <path d="M40 205 H120 L150 175 H250 L285 210 H360"/>
       <path d="M80 245 H200 L225 220"/>
     </g>
     <g fill="#1f1c58" stroke="#9fb0e8" stroke-width="2" opacity="0.8">
@@ -107,10 +107,10 @@
       <circle cx="330" cy="60" r="4"/>
       <circle cx="40" cy="205" r="5"/>
       <circle cx="250" cy="175" r="4"/>
-      <circle cx="390" cy="210" r="5"/>
+      <circle cx="360" cy="210" r="5"/>
       <circle cx="80" cy="245" r="4"/>
       <circle cx="225" cy="220" r="4"/>
-      <circle cx="370" cy="90" r="6"/>
+      <circle cx="362" cy="90" r="6"/>
     </g>
     <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#c6d0f5" opacity="0.7">
       <text x="50" y="78">POST /payments</text>
