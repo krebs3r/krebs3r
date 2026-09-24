@@ -48,11 +48,13 @@
       <stop offset="1" stop-color="#e8a13a"/>
     </radialGradient>
     <radialGradient id="sunGlow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#ffcf70" stop-opacity="0.55"/>
-      <stop offset="0.4" stop-color="#e8b94a" stop-opacity="0.16"/>
+      <stop offset="0" stop-color="#ffcf70" stop-opacity="0.35"/>
+      <stop offset="0.4" stop-color="#e8b94a" stop-opacity="0.1"/>
       <stop offset="1" stop-color="#e8b94a" stop-opacity="0"/>
     </radialGradient>
     <path id="flow" d="M40 90 H180 L210 120 H320 L350 90 H362"/>
+    <path id="flowRest" d="M40 90 H180 L210 120 H260 V60 H330"/>
+    <path id="flowApi" d="M40 205 H120 L150 175 H250 L285 210 H360"/>
   </defs>
 
   <style>
@@ -62,7 +64,7 @@
     .t4 { animation-delay: 2.4s; }
     .ring { transform-origin: 1010px 148px; animation: spin 60s linear infinite; }
     .rays { transform-origin: 215px 150px; animation: spin 40s linear infinite, pulse 4s ease-in-out infinite; }
-    @keyframes pulse { 0%, 100% { opacity: 0.5; } 50% { opacity: 0.9; } }
+    @keyframes pulse { 0%, 100% { opacity: 0.35; } 50% { opacity: 0.65; } }
     .crab { animation: walk 9s ease-in-out infinite alternate; }
     .legs-l, .legs-r { transform-box: fill-box; animation: scuttle 0.35s ease-in-out infinite alternate; }
     .legs-l { transform-origin: right center; }
@@ -83,21 +85,21 @@
     <rect width="1200" height="300" fill="url(#sky)"/>
 
     <!-- by day: the sun, glowing behind the flow lines -->
-    <g opacity="0.9">
+    <g opacity="0.7">
       <circle cx="215" cy="150" r="150" fill="url(#sunGlow)"/>
       <g class="rays" stroke="#ffcf70" stroke-width="3" stroke-linecap="round" opacity="0.7">
         <path d="M215 96 V78 M215 204 V222 M161 150 H143 M269 150 H287"/>
         <path d="M253 112 l13 -13 M177 188 l-13 13 M177 112 l-13 -13 M253 188 l13 13"/>
         <path d="M235 100 l5 -12 M195 200 l-5 12 M165 130 l-12 -5 M265 170 l12 5 M195 100 l-5 -12 M235 200 l5 12 M165 170 l-12 5 M265 130 l12 -5" stroke-width="2" opacity="0.7"/>
       </g>
-      <circle cx="215" cy="150" r="40" fill="url(#sunDisk)"/>
+      <circle cx="215" cy="150" r="36" fill="url(#sunDisk)"/>
     </g>
 
     <!-- by day: payment / API flow -->
     <g fill="none" stroke="#9fb0e8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.45">
       <use xlink:href="#flow"/>
       <path d="M260 120 V60 H330"/>
-      <path d="M40 205 H120 L150 175 H250 L285 210 H360"/>
+      <use xlink:href="#flowApi"/>
       <path d="M80 245 H200 L225 220"/>
     </g>
     <g fill="#1f1c58" stroke="#9fb0e8" stroke-width="2" opacity="0.8">
@@ -127,17 +129,29 @@
       <rect x="26" y="30" width="28" height="3" rx="1.5" fill="#9fb0e8" opacity="0.5"/>
     </g>
 
-    <!-- request dot travelling along the flow -->
-    <circle r="10" fill="#e8b94a" opacity="0.35" filter="url(#soft)">
-      <animateMotion dur="4s" repeatCount="indefinite">
+    <!-- request dot: twice along the main flow, then once up to REST -->
+    <g>
+      <circle r="10" fill="#e8b94a" opacity="0.35" filter="url(#soft)"/>
+      <circle r="4.5" fill="#ffe29a"/>
+      <animateMotion id="pay1" dur="4s" begin="0s; rest.end">
         <mpath xlink:href="#flow"/>
       </animateMotion>
-    </circle>
-    <circle r="4.5" fill="#ffe29a">
-      <animateMotion dur="4s" repeatCount="indefinite">
+      <animateMotion id="pay2" dur="4s" begin="pay1.end">
         <mpath xlink:href="#flow"/>
       </animateMotion>
-    </circle>
+      <animateMotion id="rest" dur="3.5s" begin="pay2.end">
+        <mpath xlink:href="#flowRest"/>
+      </animateMotion>
+    </g>
+
+    <!-- response dot from API to 200 OK -->
+    <g>
+      <circle r="10" fill="#e8b94a" opacity="0.35" filter="url(#soft)"/>
+      <circle r="4.5" fill="#ffe29a"/>
+      <animateMotion dur="5s" repeatCount="indefinite">
+        <mpath xlink:href="#flowApi"/>
+      </animateMotion>
+    </g>
 
     <!-- by night: stars -->
     <g fill="#ffffff">
