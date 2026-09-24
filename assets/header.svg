@@ -1,0 +1,230 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="title desc">
+  <title id="title">krebs3r – payments by day, Azeroth by night</title>
+  <desc id="desc">Indigo night banner: payment and API flow lines in front of a softly glowing sun on the left, an eclipsed blue-violet moon inside a golden ring on the right, and a small crab scuttling beneath the name krebs3r.</desc>
+
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2b2570"/>
+      <stop offset="0.4" stop-color="#1f1c58"/>
+      <stop offset="0.75" stop-color="#141338"/>
+      <stop offset="1" stop-color="#0a0b22"/>
+    </linearGradient>
+    <radialGradient id="moonGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8f7cff" stop-opacity="0.5"/>
+      <stop offset="0.6" stop-color="#5b46b2" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#5b46b2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="moon" cx="0.35" cy="0.35" r="0.75">
+      <stop offset="0" stop-color="#b9b2ff"/>
+      <stop offset="0.55" stop-color="#6c5ce7"/>
+      <stop offset="1" stop-color="#2c2a86"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe29a"/>
+      <stop offset="0.5" stop-color="#e8b94a"/>
+      <stop offset="1" stop-color="#b9832a"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5"/>
+    </filter>
+    <filter id="shadow" x="-10%" y="-30%" width="120%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#070720" flood-opacity="0.6"/>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="300" rx="20"/>
+    </clipPath>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dbe3ff"/>
+      <stop offset="0.5" stop-color="#c3c0ff"/>
+      <stop offset="1" stop-color="#a996ff"/>
+    </linearGradient>
+    <radialGradient id="sunDisk" cx="0.4" cy="0.4" r="0.7">
+      <stop offset="0" stop-color="#fff1c4"/>
+      <stop offset="0.6" stop-color="#ffcf70"/>
+      <stop offset="1" stop-color="#e8a13a"/>
+    </radialGradient>
+    <radialGradient id="sunGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffcf70" stop-opacity="0.55"/>
+      <stop offset="0.4" stop-color="#e8b94a" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#e8b94a" stop-opacity="0"/>
+    </radialGradient>
+    <path id="flow" d="M40 90 H180 L210 120 H320 L350 90 H370"/>
+  </defs>
+
+  <style>
+    .twinkle { animation: twinkle 3.2s ease-in-out infinite; }
+    .t2 { animation-delay: 0.8s; }
+    .t3 { animation-delay: 1.6s; }
+    .t4 { animation-delay: 2.4s; }
+    .ring { transform-origin: 1010px 148px; animation: spin 60s linear infinite; }
+    .rays { transform-origin: 215px 150px; animation: spin 40s linear infinite, pulse 4s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 0.5; } 50% { opacity: 0.9; } }
+    .crab { animation: walk 9s ease-in-out infinite alternate; }
+    .legs-l, .legs-r { transform-box: fill-box; animation: scuttle 0.35s ease-in-out infinite alternate; }
+    .legs-l { transform-origin: right center; }
+    .legs-r { transform-origin: left center; animation-delay: 0.175s; }
+    .claw-l, .claw-r { transform-box: fill-box; transform-origin: bottom center; animation: snap 2.4s ease-in-out infinite; }
+    .claw-r { animation-delay: 1.2s; }
+    @keyframes twinkle { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes walk { from { transform: translateX(-140px); } to { transform: translateX(140px); } }
+    @keyframes scuttle { from { transform: rotate(-7deg); } to { transform: rotate(7deg); } }
+    @keyframes snap { 0%, 80%, 100% { transform: rotate(0deg); } 88% { transform: rotate(-12deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      .twinkle, .ring, .rays, .crab, .legs-l, .legs-r, .claw-l, .claw-r { animation: none; }
+    }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#sky)"/>
+
+    <!-- by day: the sun, glowing behind the flow lines -->
+    <g opacity="0.9">
+      <circle cx="215" cy="150" r="150" fill="url(#sunGlow)"/>
+      <g class="rays" stroke="#ffcf70" stroke-width="3" stroke-linecap="round" opacity="0.7">
+        <path d="M215 96 V78 M215 204 V222 M161 150 H143 M269 150 H287"/>
+        <path d="M253 112 l13 -13 M177 188 l-13 13 M177 112 l-13 -13 M253 188 l13 13"/>
+        <path d="M235 100 l5 -12 M195 200 l-5 12 M165 130 l-12 -5 M265 170 l12 5 M195 100 l-5 -12 M235 200 l5 12 M165 170 l-12 5 M265 130 l12 -5" stroke-width="2" opacity="0.7"/>
+      </g>
+      <circle cx="215" cy="150" r="40" fill="url(#sunDisk)"/>
+    </g>
+
+    <!-- by day: payment / API flow -->
+    <g fill="none" stroke="#9fb0e8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.45">
+      <use xlink:href="#flow"/>
+      <path d="M260 120 V60 H330"/>
+      <path d="M40 205 H120 L150 175 H250 L285 210 H390"/>
+      <path d="M80 245 H200 L225 220"/>
+    </g>
+    <g fill="#1f1c58" stroke="#9fb0e8" stroke-width="2" opacity="0.8">
+      <circle cx="40" cy="90" r="5"/>
+      <circle cx="180" cy="90" r="4"/>
+      <circle cx="260" cy="120" r="4"/>
+      <circle cx="330" cy="60" r="4"/>
+      <circle cx="40" cy="205" r="5"/>
+      <circle cx="250" cy="175" r="4"/>
+      <circle cx="390" cy="210" r="5"/>
+      <circle cx="80" cy="245" r="4"/>
+      <circle cx="225" cy="220" r="4"/>
+      <circle cx="370" cy="90" r="6"/>
+    </g>
+    <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#c6d0f5" opacity="0.7">
+      <text x="50" y="78">POST /payments</text>
+      <text x="340" y="64">REST</text>
+      <text x="50" y="195">API</text>
+      <text x="300" y="199">200 OK</text>
+    </g>
+
+    <!-- payment card -->
+    <g transform="translate(70 120) rotate(-8)" opacity="0.9">
+      <rect width="64" height="42" rx="6" fill="#2e2a78" stroke="#9fb0e8" stroke-width="2"/>
+      <rect y="9" width="64" height="7" fill="#9fb0e8" opacity="0.5"/>
+      <rect x="8" y="22" width="12" height="9" rx="2" fill="url(#gold)"/>
+      <rect x="26" y="30" width="28" height="3" rx="1.5" fill="#9fb0e8" opacity="0.5"/>
+    </g>
+
+    <!-- request dot travelling along the flow -->
+    <circle r="10" fill="#e8b94a" opacity="0.35" filter="url(#soft)">
+      <animateMotion dur="4s" repeatCount="indefinite">
+        <mpath xlink:href="#flow"/>
+      </animateMotion>
+    </circle>
+    <circle r="4.5" fill="#ffe29a">
+      <animateMotion dur="4s" repeatCount="indefinite">
+        <mpath xlink:href="#flow"/>
+      </animateMotion>
+    </circle>
+
+    <!-- by night: stars -->
+    <g fill="#ffffff">
+      <circle class="twinkle" cx="820" cy="48" r="1.6"/>
+      <circle class="twinkle t2" cx="870" cy="232" r="1.3"/>
+      <circle class="twinkle t3" cx="905" cy="92" r="1.1"/>
+      <circle class="twinkle t4" cx="1115" cy="60" r="1.7"/>
+      <circle class="twinkle t2" cx="1150" cy="190" r="1.2"/>
+      <circle class="twinkle t3" cx="1090" cy="262" r="1.4"/>
+      <circle class="twinkle" cx="940" cy="270" r="1"/>
+      <circle class="twinkle t4" cx="1175" cy="120" r="1"/>
+      <circle class="twinkle t3" cx="790" cy="250" r="1.1"/>
+      <circle class="twinkle t2" cx="1040" cy="30" r="1.2"/>
+      <circle class="twinkle t4" cx="470" cy="40" r="1"/>
+      <circle class="twinkle" cx="700" cy="30" r="1.2"/>
+    </g>
+    <g fill="url(#gold)">
+      <path class="twinkle t2" d="M860 140 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+      <path class="twinkle t4" d="M1140 240 l2.5 6 6 2.5 -6 2.5 -2.5 6 -2.5 -6 -6 -2.5 6 -2.5z"/>
+      <path class="twinkle" d="M1120 96 l2 5 5 2 -5 2 -2 5 -2 -5 -5 -2 5 -2z"/>
+    </g>
+
+    <!-- eclipsed moon in a golden ring -->
+    <circle cx="1010" cy="148" r="120" fill="url(#moonGlow)"/>
+    <g class="ring">
+      <circle cx="1010" cy="148" r="74" fill="none" stroke="url(#gold)" stroke-width="3"/>
+      <circle cx="1010" cy="148" r="82" fill="none" stroke="#e8b94a" stroke-width="1" stroke-dasharray="2 10" opacity="0.7"/>
+      <g fill="url(#gold)">
+        <path d="M1010 60 l6 8 -6 8 -6 -8z"/>
+        <path d="M1010 220 l6 8 -6 8 -6 -8z"/>
+        <path d="M922 148 l8 -6 8 6 -8 6z"/>
+        <path d="M1082 148 l8 -6 8 6 -8 6z"/>
+      </g>
+    </g>
+    <circle cx="1010" cy="148" r="58" fill="url(#moon)"/>
+    <circle cx="1034" cy="136" r="52" fill="#0d0e2c" opacity="0.92"/>
+    <circle cx="1010" cy="148" r="58" fill="none" stroke="#c9c2ff" stroke-width="1" opacity="0.35"/>
+
+    <!-- centre: name & tagline -->
+    <rect x="392" y="62" width="416" height="148" rx="18" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.12"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">
+      <text x="600" y="132" font-size="58" font-weight="800" fill="url(#name)" filter="url(#shadow)" letter-spacing="1">krebs3r</text>
+      <text x="600" y="164" font-size="18" font-weight="600" fill="#ffe29a" letter-spacing="1.5">payments by day · azeroth by night</text>
+      <text x="600" y="190" font-size="13.5" fill="#d9d4ff" letter-spacing="0.5">APIs · WoW addons · web tools · local LLMs · homelab</text>
+    </g>
+
+    <!-- the crab (Krebs), scuttling sideways -->
+    <g transform="translate(600 254) scale(1.15)">
+      <g class="crab">
+        <g fill="none" stroke="#e8674a" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+          <g class="legs-l">
+            <path d="M-12 -3 l-12 -2 l-6 7"/>
+            <path d="M-13 1 l-13 2 l-4 8"/>
+            <path d="M-11 5 l-10 6 l-2 7"/>
+          </g>
+          <g class="legs-r">
+            <path d="M12 -3 l12 -2 l6 7"/>
+            <path d="M13 1 l13 2 l4 8"/>
+            <path d="M11 5 l10 6 l2 7"/>
+          </g>
+          <path d="M-12 -6 Q-22 -10 -24 -18"/>
+          <path d="M12 -6 Q22 -10 24 -18"/>
+          <path d="M-5 -9 L-7 -17"/>
+          <path d="M5 -9 L7 -17"/>
+        </g>
+        <g class="claw-l">
+          <ellipse cx="-26" cy="-23" rx="7" ry="6" fill="#ff8a65" transform="rotate(-20 -26 -23)"/>
+          <path d="M-26 -23 L-31 -29" stroke="#141338" stroke-width="2" stroke-linecap="round"/>
+        </g>
+        <g class="claw-r">
+          <ellipse cx="26" cy="-23" rx="7" ry="6" fill="#ff8a65" transform="rotate(20 26 -23)"/>
+          <path d="M26 -23 L31 -29" stroke="#141338" stroke-width="2" stroke-linecap="round"/>
+        </g>
+        <ellipse cx="0" cy="0" rx="16" ry="11" fill="#ff8a65"/>
+        <ellipse cx="-4" cy="-4" rx="7" ry="3.5" fill="#ffb199" opacity="0.6"/>
+        <circle cx="-7" cy="-19" r="3.2" fill="#ffffff"/>
+        <circle cx="7" cy="-19" r="3.2" fill="#ffffff"/>
+        <circle cx="-6.5" cy="-18.5" r="1.6" fill="#141338"/>
+        <circle cx="7.5" cy="-18.5" r="1.6" fill="#141338"/>
+        <path d="M-4 3 Q0 6 4 3" fill="none" stroke="#b9432c" stroke-width="1.6" stroke-linecap="round"/>
+      </g>
+    </g>
+
+    <!-- corner labels -->
+    <g font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="3">
+      <text x="40" y="280" fill="#ffe29a" opacity="0.55">BY DAY</text>
+      <text x="1160" y="280" fill="#e8b94a" opacity="0.7" text-anchor="end">BY NIGHT</text>
+    </g>
+  </g>
+</svg>
