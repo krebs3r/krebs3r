@@ -13,7 +13,7 @@
 
 🧑‍💻 I work with APIs and payment flows, turning integration requirements into working solutions.
 
-🏠 In my spare time, I build practical web tools and World of Warcraft addons, explore local LLMs and run self-hosted services in my homelab.
+🏠 In my spare time, I build practical web tools, World of Warcraft addons and a North Sea idle game, explore local LLMs and run self-hosted services in my homelab.
 
 ---
 
@@ -22,8 +22,28 @@
 * 💳 Payment and API integrations
 * 🧪 Browser-based tools for testing payment requests and responses
 * 🎮 WoW addons and companion tools that make everyday play more convenient
+* 🦀 Krabbenkutter, a painted North Sea idle game for the browser
 * 🛠️ Web tools, local LLMs and practical tech experiments
 * 🏠 Homelab, networking and automation
+
+---
+
+## 🦀 Krabbenkutter
+
+<p align="center">
+  <a href="https://krabbenkutter.eu"><img src="assets/krabbenkutter/banner.jpg" width="100%" alt="North Sea coast with a lighthouse, beach chairs, a shrimp cutter at the pier and seals, with the title Krabbenkutter – Ebbe, Flut und volle Netze"></a>
+</p>
+
+A cozy idle game set on the North Sea coast, painted as a living hidden-object scene: start with a beach and a single mudflat kid, end up running a whole shrimp harbour with tides, weather, day and night, seals and, since 2.0, the Hallig. Runs in the browser, installs as an app and plays offline. No ads, no purchases, no tracking. German only.
+
+<p align="center">🔗 Play in your browser: <a href="https://krabbenkutter.eu">krabbenkutter.eu</a></p>
+
+<p align="center">
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fkrabbenkutter.eu&style=flat-square&up_message=online&down_message=offline" alt="Website status">
+  <img src="https://img.shields.io/badge/PWA-offline--ready-007ec6?style=flat-square" alt="PWA: offline-ready">
+</p>
+
+<p align="center"><sub>TypeScript · PixiJS (WebGPU/WebGL) · Vite · Cloudflare</sub></p>
 
 ---
 
@@ -130,7 +150,7 @@ Interactive AMD and Intel CPU platform comparison focused on PCIe lanes, multi-G
 
 ## 🧠 Tech Interests
 
-`Payments` · `E-Commerce` · `Nexi Paygate` · `Computop Paygate` · `REST APIs` · `HTML` · `CSS` · `JavaScript` · `Lua` · `Local LLMs` · `Homelab` · `Self-Hosting`
+`Payments` · `E-Commerce` · `Nexi Paygate` · `Computop Paygate` · `REST APIs` · `HTML` · `CSS` · `JavaScript` · `TypeScript` · `PixiJS` · `PWA` · `Lua` · `Local LLMs` · `Homelab` · `Self-Hosting` · `Cloudflare`
 
 ---
 
