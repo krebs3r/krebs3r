@@ -22,7 +22,7 @@
 * 💳 Payment and API integrations
 * 🧪 Browser-based tools for testing payment requests and responses
 * 🎮 WoW addons and companion tools that make everyday play more convenient
-* 🦀 Krabbenkutter, a painted North Sea idle game for the browser
+* 🦀 [Krabbenkutter](https://krabbenkutter.eu), a painted North Sea idle game for the browser
 * 🛠️ Web tools, local LLMs and practical tech experiments
 * 🏠 Homelab, networking and automation
 
