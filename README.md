@@ -5,7 +5,6 @@
 <h1 align="center">Hi, I'm Martin 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krebs3r&style=flat-square&color=blueviolet&label=Profile+views" alt="Profile views">
   <a href="https://github.com/krebs3r?tab=followers"><img src="https://img.shields.io/github/followers/krebs3r?style=flat-square&logo=github" alt="GitHub followers"></a>
   <a href="https://github.com/krebs3r?tab=repositories"><img src="https://img.shields.io/github/stars/krebs3r?style=flat-square&logo=github&affiliations=OWNER" alt="GitHub stars"></a>
 </p>
