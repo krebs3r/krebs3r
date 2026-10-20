@@ -20,7 +20,7 @@
 ## 🔧 What I work on
 
 * 💳 Payment and API integrations
-* 🧪 Browser-based tools for testing payment requests and responses
+* 🧪 Browser and terminal tools for testing payment requests and responses
 * 🎮 WoW addons and companion tools that make everyday play more convenient
 * 🦀 [Krabbenkutter](https://krabbenkutter.eu), a painted North Sea idle game for the browser
 * 🛠️ Web tools, local LLMs and practical tech experiments
@@ -116,6 +116,20 @@ Browser-based Nexi / Computop Paygate payment request builder for hosted payment
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fpaygate.paytest.dev&style=flat-square&up_message=online&down_message=offline" alt="Website status">
 </p>
 
+### ⌨️ [Paygate CLI](https://github.com/krebs3r/paygate-cli)
+
+Send real Nexi / Computop Paygate payments from your terminal. A full-screen app with menu and command palette, plus single commands for scripts and CI: create hosted payment page, single-method or direct card payments, watch the checkout complete live, then capture, refund or release. Test cards, a simulation mode for production and an Inspector that exports every request as `curl` are built in. Unofficial side project, not affiliated with Nexi or Computop.
+
+<p align="center"><img src="https://raw.githubusercontent.com/krebs3r/paygate-cli/main/docs/demo-app.gif" width="720" alt="The paygate terminal app: start screen, creating a new payment and the receipt"></p>
+
+<p align="center">🔗 <a href="https://github.com/krebs3r/paygate-cli#installation">Installation for macOS and Windows</a> · <a href="https://github.com/krebs3r/paygate-cli/releases/latest">Latest release</a></p>
+
+<p align="center">
+  <a href="https://github.com/krebs3r/paygate-cli/releases/latest"><img src="https://img.shields.io/github/v/release/krebs3r/paygate-cli?style=flat-square" alt="Latest release"></a>
+  <img src="https://img.shields.io/github/go-mod/go-version/krebs3r/paygate-cli?style=flat-square" alt="Go version">
+  <a href="https://github.com/krebs3r/paygate-cli/blob/main/LICENSE"><img src="https://img.shields.io/github/license/krebs3r/paygate-cli?style=flat-square" alt="License"></a>
+</p>
+
 ### 🪪 [Flux Card](https://github.com/krebs3r/flux-card)
 
 Modular digital business card with glassmorphism design, light/dark themes and German/English content. Customize the content and deploy it as a static website.
@@ -150,7 +164,7 @@ Interactive AMD and Intel CPU platform comparison focused on PCIe lanes, multi-G
 
 ## 🧠 Tech Interests
 
-`Payments` · `E-Commerce` · `Nexi Paygate` · `Computop Paygate` · `REST APIs` · `HTML` · `CSS` · `JavaScript` · `TypeScript` · `PixiJS` · `PWA` · `Lua` · `Local LLMs` · `Homelab` · `Self-Hosting` · `Cloudflare`
+`Payments` · `E-Commerce` · `Nexi Paygate` · `Computop Paygate` · `REST APIs` · `HTML` · `CSS` · `JavaScript` · `TypeScript` · `Go` · `PixiJS` · `PWA` · `Lua` · `Local LLMs` · `Homelab` · `Self-Hosting` · `Cloudflare`
 
 ---
 
