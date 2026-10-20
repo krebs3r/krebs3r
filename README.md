@@ -47,63 +47,6 @@ A cozy idle game set on the North Sea coast, painted as a living hidden-object s
 
 ---
 
-## 🎮 World of Warcraft Addons & Tools
-
-<h3 align="center">🌑 <a href="https://github.com/krebs3r/umbra-unit-frames">Umbra Unit Frames</a></h3>
-
-<p align="center"><img src="https://raw.githubusercontent.com/krebs3r/umbra-unit-frames/main/assets/logo-512.png" width="64" alt="Umbra Unit Frames logo: a golden medallion around a blue-violet eclipsed moon"></p>
-
-Compact, readable unit frames for WoW Retail and WoW: Forever, inspired by ShadowedUnitFrames with a look of its own. Class color sits on a 3-pixel edge instead of the health bar, every frame gets its own rectangular portrait column, and mana, energy or rage run as a hairline beneath the health bar. Player, target, pet, target of target, boss and party frames are covered; everything is configured through `/uuf`.
-
-<p align="center">🔗 <a href="https://github.com/krebs3r/umbra-unit-frames/releases/latest">GitHub Download</a> · <a href="https://www.curseforge.com/wow/addons/umbra-unit-frames">CurseForge</a></p>
-
-<p align="center">
-  <a href="https://github.com/krebs3r/umbra-unit-frames/releases/latest"><img src="https://img.shields.io/github/v/release/krebs3r/umbra-unit-frames?style=flat-square" alt="Latest release"></a>
-  <a href="https://github.com/krebs3r/umbra-unit-frames/releases"><img src="https://img.shields.io/github/downloads/krebs3r/umbra-unit-frames/total?style=flat-square&label=GitHub%20downloads" alt="GitHub downloads"></a>
-  <a href="https://www.curseforge.com/wow/addons/umbra-unit-frames"><img src="https://img.shields.io/curseforge/dt/1707332?style=flat-square&logo=curseforge&label=CurseForge" alt="CurseForge downloads"></a>
-</p>
-
-<h3 align="center">🔊 <a href="https://github.com/krebs3r/soundstone-azeroth-audio">Soundstone – Azeroth Audio</a></h3>
-
-<p align="center"><img src="https://raw.githubusercontent.com/krebs3r/soundstone-azeroth-audio/main/docs/assets/Logo.png" width="64" alt="Soundstone logo: a blue rune stone with golden sound waves"></p>
-
-Keep WoW's audio controls within reach: adjust master volume, sound effects and music using a compact bar or an expanded mixer, and select your output device. English and German UI; no other addon required.
-
-<p align="center">🔗 <a href="https://github.com/krebs3r/soundstone-azeroth-audio/releases/latest">GitHub Download</a> · <a href="https://www.curseforge.com/wow/addons/soundstone-azeroth-audio">CurseForge</a></p>
-
-<p align="center">
-  <a href="https://github.com/krebs3r/soundstone-azeroth-audio/releases/latest"><img src="https://img.shields.io/github/v/release/krebs3r/soundstone-azeroth-audio?style=flat-square" alt="Latest release"></a>
-  <a href="https://github.com/krebs3r/soundstone-azeroth-audio/releases"><img src="https://img.shields.io/github/downloads/krebs3r/soundstone-azeroth-audio/total?style=flat-square&label=GitHub%20downloads" alt="GitHub downloads"></a>
-  <a href="https://www.curseforge.com/wow/addons/soundstone-azeroth-audio"><img src="https://img.shields.io/curseforge/dt/1696875?style=flat-square&logo=curseforge&label=CurseForge" alt="CurseForge downloads"></a>
-</p>
-
-<h3 align="center">⏳ <a href="https://github.com/krebs3r/hourstone-azeroth-hours">Hourstone – Azeroth Hours</a></h3>
-
-<p align="center"><img src="https://raw.githubusercontent.com/krebs3r/hourstone-azeroth-hours/main/docs/assets/Logo.png" width="64" alt="Hourstone logo: a blue rune stone with a golden hourglass"></p>
-
-Your characters and their total playtime in one compact window, with search by character or guild, realm and client filters and a current-session display. In Retail, a Progress tab adds the current keystone, your weekly Mythic+ best and the nine Great Vault slots. Characters are recorded when you log in with the addon enabled. The addon works independently; the optional Hourstone Companion combines saved data across WoW clients and supports synchronization between your own PCs.
-
-<p align="center">🔗 <a href="https://github.com/krebs3r/hourstone-azeroth-hours/releases/latest">GitHub Download</a> · <a href="https://www.curseforge.com/wow/addons/hourstone-azeroth-hours">CurseForge</a></p>
-
-<p align="center">
-  <a href="https://github.com/krebs3r/hourstone-azeroth-hours/releases/latest"><img src="https://img.shields.io/github/v/release/krebs3r/hourstone-azeroth-hours?style=flat-square" alt="Latest release"></a>
-  <a href="https://github.com/krebs3r/hourstone-azeroth-hours/releases"><img src="https://img.shields.io/github/downloads/krebs3r/hourstone-azeroth-hours/total?style=flat-square&label=GitHub%20downloads" alt="GitHub downloads"></a>
-  <a href="https://www.curseforge.com/wow/addons/hourstone-azeroth-hours"><img src="https://img.shields.io/curseforge/dt/1697059?style=flat-square&logo=curseforge&label=CurseForge" alt="CurseForge downloads"></a>
-</p>
-
-### 🪟 [Hourstone Companion](https://github.com/krebs3r/hourstone-companion)
-
-Optional Windows companion for Hourstone – Azeroth Hours. Browse saved character playtime across WoW clients, with optional synchronization between your own PCs through a Dropbox, OneDrive or other synchronized folder. No Companion account or hosted Hourstone server required.
-
-<p align="center">🔗 <a href="https://github.com/krebs3r/hourstone-companion/releases/latest">Windows Download</a> · Early release for Windows 11 x64</p>
-
-<p align="center">
-  <a href="https://github.com/krebs3r/hourstone-companion/releases/latest"><img src="https://img.shields.io/github/v/release/krebs3r/hourstone-companion?style=flat-square" alt="Latest release"></a>
-  <a href="https://github.com/krebs3r/hourstone-companion/releases"><img src="https://img.shields.io/github/downloads/krebs3r/hourstone-companion/total?style=flat-square&label=GitHub%20downloads" alt="GitHub downloads"></a>
-</p>
-
----
-
 ## 📌 Web Tools & Experiments
 
 ### 💳 [Computop Paygate Tester](https://paygate.paytest.dev)
@@ -158,6 +101,63 @@ Interactive AMD and Intel CPU platform comparison focused on PCIe lanes, multi-G
 
 <p align="center">
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fkrebs3r.github.io%2Flocal-llm-cpu-guide%2F&style=flat-square&up_message=online&down_message=offline" alt="Website status">
+</p>
+
+---
+
+## 🎮 World of Warcraft Addons & Tools
+
+<h3 align="center">🌑 <a href="https://github.com/krebs3r/umbra-unit-frames">Umbra Unit Frames</a></h3>
+
+<p align="center"><img src="https://raw.githubusercontent.com/krebs3r/umbra-unit-frames/main/assets/logo-512.png" width="64" alt="Umbra Unit Frames logo: a golden medallion around a blue-violet eclipsed moon"></p>
+
+Compact, readable unit frames for WoW Retail and WoW: Forever, inspired by ShadowedUnitFrames with a look of its own. Class color sits on a 3-pixel edge instead of the health bar, every frame gets its own rectangular portrait column, and mana, energy or rage run as a hairline beneath the health bar. Player, target, pet, target of target, boss and party frames are covered; everything is configured through `/uuf`.
+
+<p align="center">🔗 <a href="https://github.com/krebs3r/umbra-unit-frames/releases/latest">GitHub Download</a> · <a href="https://www.curseforge.com/wow/addons/umbra-unit-frames">CurseForge</a></p>
+
+<p align="center">
+  <a href="https://github.com/krebs3r/umbra-unit-frames/releases/latest"><img src="https://img.shields.io/github/v/release/krebs3r/umbra-unit-frames?style=flat-square" alt="Latest release"></a>
+  <a href="https://github.com/krebs3r/umbra-unit-frames/releases"><img src="https://img.shields.io/github/downloads/krebs3r/umbra-unit-frames/total?style=flat-square&label=GitHub%20downloads" alt="GitHub downloads"></a>
+  <a href="https://www.curseforge.com/wow/addons/umbra-unit-frames"><img src="https://img.shields.io/curseforge/dt/1707332?style=flat-square&logo=curseforge&label=CurseForge" alt="CurseForge downloads"></a>
+</p>
+
+<h3 align="center">🔊 <a href="https://github.com/krebs3r/soundstone-azeroth-audio">Soundstone – Azeroth Audio</a></h3>
+
+<p align="center"><img src="https://raw.githubusercontent.com/krebs3r/soundstone-azeroth-audio/main/docs/assets/Logo.png" width="64" alt="Soundstone logo: a blue rune stone with golden sound waves"></p>
+
+Keep WoW's audio controls within reach: adjust master volume, sound effects and music using a compact bar or an expanded mixer, and select your output device. English and German UI; no other addon required.
+
+<p align="center">🔗 <a href="https://github.com/krebs3r/soundstone-azeroth-audio/releases/latest">GitHub Download</a> · <a href="https://www.curseforge.com/wow/addons/soundstone-azeroth-audio">CurseForge</a></p>
+
+<p align="center">
+  <a href="https://github.com/krebs3r/soundstone-azeroth-audio/releases/latest"><img src="https://img.shields.io/github/v/release/krebs3r/soundstone-azeroth-audio?style=flat-square" alt="Latest release"></a>
+  <a href="https://github.com/krebs3r/soundstone-azeroth-audio/releases"><img src="https://img.shields.io/github/downloads/krebs3r/soundstone-azeroth-audio/total?style=flat-square&label=GitHub%20downloads" alt="GitHub downloads"></a>
+  <a href="https://www.curseforge.com/wow/addons/soundstone-azeroth-audio"><img src="https://img.shields.io/curseforge/dt/1696875?style=flat-square&logo=curseforge&label=CurseForge" alt="CurseForge downloads"></a>
+</p>
+
+<h3 align="center">⏳ <a href="https://github.com/krebs3r/hourstone-azeroth-hours">Hourstone – Azeroth Hours</a></h3>
+
+<p align="center"><img src="https://raw.githubusercontent.com/krebs3r/hourstone-azeroth-hours/main/docs/assets/Logo.png" width="64" alt="Hourstone logo: a blue rune stone with a golden hourglass"></p>
+
+Your characters and their total playtime in one compact window, with search by character or guild, realm and client filters and a current-session display. In Retail, a Progress tab adds the current keystone, your weekly Mythic+ best and the nine Great Vault slots. Characters are recorded when you log in with the addon enabled. The addon works independently; the optional Hourstone Companion combines saved data across WoW clients and supports synchronization between your own PCs.
+
+<p align="center">🔗 <a href="https://github.com/krebs3r/hourstone-azeroth-hours/releases/latest">GitHub Download</a> · <a href="https://www.curseforge.com/wow/addons/hourstone-azeroth-hours">CurseForge</a></p>
+
+<p align="center">
+  <a href="https://github.com/krebs3r/hourstone-azeroth-hours/releases/latest"><img src="https://img.shields.io/github/v/release/krebs3r/hourstone-azeroth-hours?style=flat-square" alt="Latest release"></a>
+  <a href="https://github.com/krebs3r/hourstone-azeroth-hours/releases"><img src="https://img.shields.io/github/downloads/krebs3r/hourstone-azeroth-hours/total?style=flat-square&label=GitHub%20downloads" alt="GitHub downloads"></a>
+  <a href="https://www.curseforge.com/wow/addons/hourstone-azeroth-hours"><img src="https://img.shields.io/curseforge/dt/1697059?style=flat-square&logo=curseforge&label=CurseForge" alt="CurseForge downloads"></a>
+</p>
+
+### 🪟 [Hourstone Companion](https://github.com/krebs3r/hourstone-companion)
+
+Optional Windows companion for Hourstone – Azeroth Hours. Browse saved character playtime across WoW clients, with optional synchronization between your own PCs through a Dropbox, OneDrive or other synchronized folder. No Companion account or hosted Hourstone server required.
+
+<p align="center">🔗 <a href="https://github.com/krebs3r/hourstone-companion/releases/latest">Windows Download</a> · Early release for Windows 11 x64</p>
+
+<p align="center">
+  <a href="https://github.com/krebs3r/hourstone-companion/releases/latest"><img src="https://img.shields.io/github/v/release/krebs3r/hourstone-companion?style=flat-square" alt="Latest release"></a>
+  <a href="https://github.com/krebs3r/hourstone-companion/releases"><img src="https://img.shields.io/github/downloads/krebs3r/hourstone-companion/total?style=flat-square&label=GitHub%20downloads" alt="GitHub downloads"></a>
 </p>
 
 ---
