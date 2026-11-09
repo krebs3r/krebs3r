@@ -113,12 +113,13 @@ Interactive AMD and Intel CPU platform comparison focused on PCIe lanes, multi-G
 
 Compact, readable unit frames for WoW Retail and WoW: Forever, inspired by ShadowedUnitFrames with a look of its own. Class color sits on a 3-pixel edge instead of the health bar, every frame gets its own rectangular portrait column, and mana, energy or rage run as a hairline beneath the health bar. Player, target, pet, target of target, boss and party frames are covered; everything is configured through `/uuf`.
 
-<p align="center">🔗 <a href="https://github.com/krebs3r/umbra-unit-frames/releases/latest">GitHub Download</a> · <a href="https://www.curseforge.com/wow/addons/umbra-unit-frames">CurseForge</a></p>
+<p align="center">🔗 <a href="https://github.com/krebs3r/umbra-unit-frames/releases/latest">GitHub Download</a> · <a href="https://www.curseforge.com/wow/addons/umbra-unit-frames">CurseForge</a> · <a href="https://addons.wago.io/addons/v63QLDGb">Wago</a></p>
 
 <p align="center">
   <a href="https://github.com/krebs3r/umbra-unit-frames/releases/latest"><img src="https://img.shields.io/github/v/release/krebs3r/umbra-unit-frames?style=flat-square" alt="Latest release"></a>
   <a href="https://github.com/krebs3r/umbra-unit-frames/releases"><img src="https://img.shields.io/github/downloads/krebs3r/umbra-unit-frames/total?style=flat-square&label=GitHub%20downloads" alt="GitHub downloads"></a>
   <a href="https://www.curseforge.com/wow/addons/umbra-unit-frames"><img src="https://img.shields.io/curseforge/dt/1707332?style=flat-square&logo=curseforge&label=CurseForge" alt="CurseForge downloads"></a>
+  <a href="https://addons.wago.io/addons/v63QLDGb"><img src="https://img.shields.io/badge/Wago-Addons-c1272d?style=flat-square" alt="Wago Addons"></a>
 </p>
 
 <h3 align="center">🔊 <a href="https://github.com/krebs3r/soundstone-azeroth-audio">Soundstone – Azeroth Audio</a></h3>
@@ -179,6 +180,6 @@ While payments, APIs and homelab projects take up quite a bit of space, I also t
 
 ---
 
-## 🌐 CurseForge
+## 🌐 CurseForge & Wago
 
-You can find all my WoW addons on [my CurseForge project page](https://www.curseforge.com/members/krebs3r/projects).
+You can find all my WoW addons on [my CurseForge project page](https://www.curseforge.com/members/krebs3r/projects), and some of them on [my Wago Addons profile](https://addons.wago.io/user/krebs3r) as well.
